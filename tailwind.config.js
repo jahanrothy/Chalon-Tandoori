@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
   content: ["index.html"],
   theme: {
@@ -13,8 +14,6 @@ module.exports = {
     container: {
       center: true
     },
-
-   
 
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
