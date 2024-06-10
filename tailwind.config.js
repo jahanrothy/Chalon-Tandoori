@@ -34,9 +34,18 @@ module.exports = {
         bg_transparent: '#00000080'
         
       },
+     
+
+    },
+
+    sidebarImage:{
+      'bg_sidebar': '/images/png/header-slider-bg-RLXUFRFX.jpg'
     },
     backgroundImage: {
       'custom-radial': 'radial-gradient(circle closest-side, #B0B0B0 80%, #ffffff 10%)',
+    },
+    backgroundImage: {
+      'custom-radial2': 'radial-gradient(circle closest-side, #B0B0B0 80%, #ffffff 20%)',
     },
     backgroundSize: {
       'custom-size': '4px 2px',
